@@ -9,6 +9,7 @@ const directories = [
   "./Maurice-Lacroix-done",
   "./Rolex",
   "./womens-done",
+  "./womens",
 ]; // Kataloglarni qo'shing
 
 // Natijani yozish uchun HTML fayl
