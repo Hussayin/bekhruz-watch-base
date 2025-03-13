@@ -10,6 +10,8 @@ const directories = [
   "./Rolex",
   "./womens-done",
   "./womens",
+  "./Raymond-Weil",
+  "./hamilton",
 ]; // Kataloglarni qo'shing
 
 // Natijani yozish uchun HTML fayl
