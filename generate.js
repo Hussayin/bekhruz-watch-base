@@ -12,6 +12,7 @@ const directories = [
   "./womens",
   "./Raymond-Weil",
   "./hamilton",
+  "webp",
 ]; // Kataloglarni qo'shing
 
 // Natijani yozish uchun HTML fayl
